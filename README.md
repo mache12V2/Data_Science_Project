@@ -1,20 +1,3 @@
----
-jupyter:
-  colab:
-    collapsed_sections:
-    - SaTrYeW-ayG2
-    - lMBhwm-jWIf0
-    - wIqcowUH1TQ9
-    toc_visible: true
-  kernelspec:
-    display_name: Python 3
-    name: python3
-  language_info:
-    name: python
-  nbformat: 4
-  nbformat_minor: 0
----
-
 # **TRABAJO ACADEMICO FINAL**
 
 > Curso: FUNDAMENTOS DE DATA SCIENCE
