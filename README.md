@@ -255,7 +255,7 @@ plt.title('Histograma de Education')
 plt.show()
 ```
 
-![](vertopal_20a8e0f0b2354747b198496fac6a12b0/b9d60f8848c97f155c083f04ee43bfdf06670716.png)
+![imagen](https://github.com/mache12V2/FDS_2023_1-CC52/assets/56894248/da0e3c4a-d3e1-4736-846a-b47ad9bce2aa)
 
 
 # **PREPARACIÓN DE LOS DATOS**
@@ -677,7 +677,8 @@ plt.title('Histograma de Occupations')
 plt.show()
 ```
 
-![](vertopal_20a8e0f0b2354747b198496fac6a12b0/4fe6da8bead97db5e73db2c91a35c72c9885133d.png)
+![imagen](https://github.com/mache12V2/FDS_2023_1-CC52/assets/56894248/b07a696b-275a-4c65-8b72-fbee09e076ec)
+
 
 Histograma de Education (Data limpia)
 
@@ -691,6 +692,9 @@ plt.ylabel('Frequency')
 plt.title('Histograma de Education')
 plt.show()
 ```
+
+![imagen](https://github.com/mache12V2/FDS_2023_1-CC52/assets/56894248/ed6f8429-96b9-4c26-8d21-e3d378ad0aad)
+
 
 ``` python
 # ¿Cuánto es el promedio de ingresos de acuerdo con si la bicicleta fue comprada o no por el cliente?
@@ -710,6 +714,8 @@ plt.ylabel('Promedio de ingresos')
 plt.title('Promedio de ingresos / compra de bicicleta')
 plt.show()
 ```
+
+
 
 ``` python
 # ¿Cuánto es el promedio de ingresos según el estado civil del cliente?
