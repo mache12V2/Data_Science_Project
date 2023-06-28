@@ -215,7 +215,7 @@ df_buyers["Age"].plot.box()
 plt.title("BoxPlot Cars")
 df_buyers["Cars"].plot.box()
 ```
-![](vertopal_20a8e0f0b2354747b198496fac6a12b0/a9a9653bbc23e4460b2a751f73999707ffe5996f.png)
+![imagen](https://github.com/mache12V2/FDS_2023_1-CC52/assets/56894248/47d578d2-893d-423c-8148-d59c2ffa2124)
 
 
 -   Box plt (children)
@@ -224,7 +224,8 @@ df_buyers["Cars"].plot.box()
 plt.title("BoxPlot Children")
 df_buyers["Children"].plot.box()
 ```
-![](vertopal_20a8e0f0b2354747b198496fac6a12b0/8d089d65dac7c348df740a4d2b863d93a31c05d1.png)
+![imagen](https://github.com/mache12V2/FDS_2023_1-CC52/assets/56894248/5042f7ef-42bf-46b0-9f20-6bf876b3264d)
+
 
 -   Histograma de Occupation
 
@@ -238,7 +239,8 @@ plt.ylabel('Frequency')
 plt.title('Histograma de Occupations')
 plt.show()
 ```
-![](vertopal_20a8e0f0b2354747b198496fac6a12b0/4fe6da8bead97db5e73db2c91a35c72c9885133d.png)
+![imagen](https://github.com/mache12V2/FDS_2023_1-CC52/assets/56894248/8d1aae40-b48e-454a-9107-f02f98846e2d)
+
 
 -   Histograma de Education
 
@@ -254,6 +256,7 @@ plt.show()
 ```
 
 ![](vertopal_20a8e0f0b2354747b198496fac6a12b0/b9d60f8848c97f155c083f04ee43bfdf06670716.png)
+
 
 # **PREPARACIÓN DE LOS DATOS**
 
