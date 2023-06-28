@@ -189,7 +189,7 @@ plt.axis('equal')
 plt.title('Distribución de Gender')
 plt.show()
 ```
-![](vertopal_20a8e0f0b2354747b198496fac6a12b0/6c434d630dda2552758eb4e42401c4ac9996f2b7.png)
+![imagen](https://github.com/mache12V2/FDS_2023_1-CC52/assets/56894248/4519d62a-7fb7-4094-86a3-a13bcc76c19c)
 
 > -   Box plot(Sueldos)
 
@@ -197,7 +197,8 @@ plt.show()
 plt.title("BoxPlot Ingresos")
 df_buyers["Income"].plot.box()
 ```
-![](vertopal_20a8e0f0b2354747b198496fac6a12b0/469062d97d64a71f72c9c8b3375c74d4c500d938.png)
+![imagen](https://github.com/mache12V2/FDS_2023_1-CC52/assets/56894248/38718dc9-5c9f-454d-b946-bd36fd8aa76c)
+
 
 -   Box plot (Age)
 
@@ -205,7 +206,8 @@ df_buyers["Income"].plot.box()
 plt.title("BoxPlot Age")
 df_buyers["Age"].plot.box()
 ```
-![](vertopal_20a8e0f0b2354747b198496fac6a12b0/a974e53a9e5c70f1e6ddc529047ea65dde943bea.png)
+![imagen](https://github.com/mache12V2/FDS_2023_1-CC52/assets/56894248/9699375f-e481-4eab-bccf-36e483cc2eb9)
+
 
 -   Box plot (Cars)
 
@@ -214,6 +216,7 @@ plt.title("BoxPlot Cars")
 df_buyers["Cars"].plot.box()
 ```
 ![](vertopal_20a8e0f0b2354747b198496fac6a12b0/a9a9653bbc23e4460b2a751f73999707ffe5996f.png)
+
 
 -   Box plt (children)
 
